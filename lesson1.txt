@@ -1,0 +1,28 @@
+It highlights the differences.
+Easier to spot the diff.
+faster to spot the diff.
+more focused.
+
+
+can revert to previous versions if current changes don't work out
+can compare to previous versions
+see where things break or what caused it to break
+don't do things over again
+create save spots to branch
+can merge stuff
+
+
+multi-file commits
+ - tracking changes between multiple files in one commit.
+ - other things like docs treat each file as independent entity
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log - shows all the history of changes
+git diff - compares 2 files
+
+
+How might using version control make you more confident to make changes that could break something?
+
+ - it helps because you can always revert back to previous working state if changes don't go as expected.
+
