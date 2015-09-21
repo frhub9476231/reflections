@@ -2,3 +2,12 @@
 What happens when you initialize a repository? Why do you need to do it?
  - initializes the repo but doesn't commit
  - need in order to start a repo.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+ - staging contains only stuff grouped together for a commit.
+
+
+
+
+
